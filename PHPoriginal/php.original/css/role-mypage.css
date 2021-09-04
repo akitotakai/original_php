@@ -1,0 +1,22 @@
+@charset "UTF-8";
+#wrapper {
+  background-color: rgb(255, 255, 242);
+}
+.pas-w {
+  width: 100px;
+}
+#users {
+  width: 80%;
+  margin: 0 auto;
+}
+
+ th {
+  text-align: left;
+  background-color: rgb(255, 214, 200);
+  height: 40px;
+}
+
+ td {
+  background-color: rgba(255, 255, 255, 40%);
+  height: 30px;
+}
