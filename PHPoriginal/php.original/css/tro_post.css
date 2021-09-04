@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+#wrapper {
+  background-color: rgb(255, 255, 242);
+}
+
+#toukou {
+  width: 800px;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 30px;
+}
+
+input#name-t {
+  margin: 0 auto;
+  display: block;
+  width:300px;
+}
+
+#title {
+  margin: 0 auto;
+  display: block;
+  width:300px;
+}
+
+select {
+  margin: 0 auto;
+  display: block;
+}
+
+#center {
+  width: 240px;
+  margin: 0 auto;
+}
+
+#tro_comment {
+  margin: 0 auto;
+  display: block;
+  width:600px;
+  height:300px;
+}
+
+#t-btn {
+  margin: 20px auto 20px auto;
+  display: block;
+}
